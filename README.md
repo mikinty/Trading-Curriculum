@@ -8,6 +8,14 @@ The goal here is to give you an objective foundation for knowledge in the tradin
 
 As always, books will have their goods and bads, outdated quips and legendary quotes. It's up to you to choose how you read these books and pick out what you think is useful or not for your trading needs.
 
+## Foundations
+
+Most people who enter wallstreet have some sort of education in Finance or Economics. If you don't, it is absolutely imperative that you have at least an introduction to some of the basic principles that dictate the economy and the market. For example, when you hear news or read an article in finance, how do you know you're interpreting it correctly? Learning the foundations are another way of "learning the speak" of people who trade and invest. The goal of these readings are to help with understanding capital markets, monetary policy, and investment theory.
+
+- Accounting: [This is a free and really well-written book with examples](https://lyryx.com/introduction-financial-accounting/) 
+- Macroeconomics: TBD
+- Capital Asset Pricing
+
 ## Introductory
 
 Before we start trading, we should have a primer about what it's like to be in the business. We want to learn some psychology here, some foundational skills, and just get an idea of what distinguishes good and bad traders.
