@@ -12,8 +12,10 @@ As always, books will have their goods and bads, outdated quips and legendary qu
 
 Most people who enter wallstreet have some sort of education in Finance or Economics. If you don't, it is absolutely imperative that you have at least an introduction to some of the basic principles that dictate the economy and the market. For example, when you hear news or read an article in finance, how do you know you're interpreting it correctly? Learning the foundations are another way of "learning the speak" of people who trade and invest. The goal of these readings are to help with understanding capital markets, monetary policy, and investment theory.
 
-- Accounting: [This is a free and really well-written book with examples](https://lyryx.com/introduction-financial-accounting/) 
-- Macroeconomics: TBD
+- Accounting: [This is a free and really well-written book with examples](https://lyryx.com/introduction-financial-accounting/). Your goal here is to learn how to read balance sheets from financial reports that companies post during earnings.
+- Macroeconomics
+    - [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0): Outstanding introduction to economic cycles, and how the economy works at a high level.
+    - [Macroeconomics by Mankiw](https://www.amazon.com/dp/1319105998/ref=as_sl_pc_tf_til?tag=viriditybooks-20&linkCode=w00&linkId=8fe7ff5587c1d0409ac65a3da154a41b&creativeASIN=1319105998): Good theoretical derivations and equations, supplemented with economic theory explanations and case studies.
 - Capital Asset Pricing
 
 ## Introductory
@@ -30,7 +32,7 @@ Before we start trading, we should have a primer about what it's like to be in t
 
 Here, we start talking about how to actually trade, and what trading looks like IRL.
 
-- The Market Wizard Series by Jack D. Schwager. These books tell you about real life trades and give you insight about how people _actually_ make money.
+- The Market Wizard Series by Jack D. Schwager. These books tell you about real life trades and give you insight about how people _actually_ make money. These books are half motivational, half insights into trading techniques. There are a few takeaways from the books that are important, one of which being that in order to become a successful trader, you have to **find your own system that suits you**. This means nobody can tell you how you should trade -- you have to figure it yourself!
   - [_Market Wizards_](https://amzn.to/3E3Ng2o) 
   - [_The New Market Wizards_](https://amzn.to/3GYT5jl)
   - [_Hedge Fund Market Wizards_](https://amzn.to/3pbqaTr)
