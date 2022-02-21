@@ -16,6 +16,8 @@ Most people who enter wallstreet have some sort of education in Finance or Econo
 - Macroeconomics
     - [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0): Outstanding introduction to economic cycles, and how the economy works at a high level.
     - [Macroeconomics by Mankiw](https://www.amazon.com/dp/1319105998/ref=as_sl_pc_tf_til?tag=viriditybooks-20&linkCode=w00&linkId=8fe7ff5587c1d0409ac65a3da154a41b&creativeASIN=1319105998): Good theoretical derivations and equations, supplemented with economic theory explanations and case studies.
+- Statistics:
+    - [Statistics by David Freeman](https://amzn.to/3LPkXKc): Very good conceptual introduction to statistics. Light on equations and more heavy on conversation and intuition.
 - Capital Asset Pricing
 
 ## Introductory
