@@ -30,12 +30,21 @@ Before we start trading, we should have a primer about what it's like to be in t
 - [_The Signal and the Noise_ by Nate Silver](https://amzn.to/30KTreg): There is a lot of data in the world, but what is useful and what is not?
 - [_Superforecasting_ by Phillip E. Tetlock](https://amzn.to/3yFmsUZ): Why are some people better at predicting the future than others?
 
-## Core Concepts
+## What is it like to trade?
 
-Here, we start talking about how to actually trade, and what trading looks like IRL.
+Here, we start to learn what trading looks like IRL, tips from experts, and get a scan of whether or not you 1. have and edge and 2. want to trade at all.
 
 - The Market Wizard Series by Jack D. Schwager. These books tell you about real life trades and give you insight about how people _actually_ make money. These books are half motivational, half insights into trading techniques. There are a few takeaways from the books that are important, one of which being that in order to become a successful trader, you have to **find your own system that suits you**. This means nobody can tell you how you should trade -- you have to figure it yourself!
   - [_Market Wizards_](https://amzn.to/3E3Ng2o) 
   - [_The New Market Wizards_](https://amzn.to/3GYT5jl)
   - [_Hedge Fund Market Wizards_](https://amzn.to/3pbqaTr)
   - [_Unknown Market Wizards_](https://amzn.to/3GYT52P)
+- [_Reminiscences of a Stock Operator_](https://amzn.to/3lbRvlp): This is a classic text about a trader in the early 1900s who made and blew his fortune many times trading. A central theme of the book is that "whatever mistakes have been made in the market, will be made again" a la history repeats itself style. This book has been touted by many great traders such as Paul Tudor Jones for giving good insight into what it's like to lose money, and how to keep your composure even at the worst times of your trading career. 
+
+## Core Concepts
+
+Now that you know what it's like to trade, we need to learn more about the system that works for you. Since it's so person-dependent on developing your trading strategy, you might have to go through a few of these books (like I did), but it's generally good to get a scan of what's out there. The goal is to eventually find something you really like and get good at it.
+
+- [_Technical Analysis of the Financial Markets_](https://amzn.to/3yEdrxu) by John J. Murphy. The TLDR of whether or not TA works is -- it works when it does. Not very helpful, right? TA is hard to prove that it works, because it requires very specific setups and complex reasons for it to work for certain traders, but aside from that, it's useful just to learn how trading systems generally work, how market price and other indicators can tell you the market psychology, and also learn the lingo of many traders on the street.
+
+
