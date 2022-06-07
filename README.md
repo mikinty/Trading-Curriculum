@@ -45,6 +45,12 @@ Here, we start to learn what trading looks like IRL, tips from experts, and get 
 
 Now that you know what it's like to trade, we need to learn more about the system that works for you. Since it's so person-dependent on developing your trading strategy, you might have to go through a few of these books (like I did), but it's generally good to get a scan of what's out there. The goal is to eventually find something you really like and get good at it.
 
+### Technicals
+
+Technical trading relies mostly on past price action to predict future price action. The thesis here is that price data represents the culmination of all human psychology, fundamental factors, macro, context, etc., so we can focus on those to determine what the future price will be. Obviously, the thesis is unlikely to be entirely true, but if you can use it when it is _true enough_, you can make certain trades work for you.
+
 - [_Technical Analysis of the Financial Markets_](https://amzn.to/3yEdrxu) by John J. Murphy. The TLDR of whether or not TA works is -- it works when it does. Not very helpful, right? TA is hard to prove that it works, because it requires very specific setups and complex reasons for it to work for certain traders, but aside from that, it's useful just to learn how trading systems generally work, how market price and other indicators can tell you the market psychology, and also learn the lingo of many traders on the street.
 
+### Macro
 
+- [Big Debt Crises by _Ray Dalio_](https://amzn.to/3Q8zcvY): What are archetypical bubbles and depressions like, why do they happen, and how have they happened in the past? By studying these past economic crises, can we detect when it will happen again, and prepare ourselves better for the next downturn?
