@@ -26,9 +26,16 @@ Before we start trading, we should have a primer about what it's like to be in t
 
 - [_Most Important Thing_ by Howard Marks](https://amzn.to/3GXdQMm): Some good mindset things to remember
 - [_One Up on Wall Street_ by Peter Lynch](https://amzn.to/3Fcxx2v): The idea of "boomer" investing and fundamentals. Really encourages you to do your DD (due diligence).
+- [More Than You Know](https://amzn.to/3NKSype): Behavioral Theory in the context of financial markets
 - [_The Theory of Poker_ by David Sklansky](https://amzn.to/3p90t5V): Poker is probably the best game to quickly learn about how EV (expected value) works and how to manage risk.
 - [_The Signal and the Noise_ by Nate Silver](https://amzn.to/30KTreg): There is a lot of data in the world, but what is useful and what is not?
 - [_Superforecasting_ by Phillip E. Tetlock](https://amzn.to/3yFmsUZ): Why are some people better at predicting the future than others?
+- Nassim Nicholas Taleb's books about how people fail to evaluate unlikely events and probability in general. Great for giving a framework of thinking in terms of what bets to take and how to take them. The books in his [Incerto Series](https://amzn.to/3xGCZJq) are all good, but you only really have to read a few of them to get most of his ideas. The books you can choose from:
+  - [Fooled by Randomness](https://amzn.to/3QtgvTV)
+  - [The Black Swan](https://amzn.to/3QdZ61b)
+  - [Antifragile: Things That Gain from Disorder](https://amzn.to/3NKo4nj)
+  - [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/3NQvyoY)
+  - [The Bed of Proscrutes](https://amzn.to/3aPTius)
 
 ## What is it like to trade?
 
