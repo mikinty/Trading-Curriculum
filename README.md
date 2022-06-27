@@ -35,7 +35,6 @@ Before we start trading, we should have a primer about what it's like to be in t
   - [The Black Swan](https://amzn.to/3HzASdY)
   - [Antifragile: Things That Gain from Disorder](https://amzn.to/3Qr9Fy9)
   - [Skin in the Game: Hidden Asymmetries in Daily Life](https://amzn.to/3QA0uLV)
-  - [The Bed of Proscrustes](https://amzn.to/3tMujiB): Just a collection of quotes that Taleb likes, if you don't want to read his rambling. 
 
 ## What is it like to trade?
 
