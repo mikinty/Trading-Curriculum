@@ -12,6 +12,7 @@ As always, books will have their goods and bads, outdated quips and legendary qu
 
 Most people who enter wallstreet have some sort of education in Finance or Economics. If you don't, it is absolutely imperative that you have at least an introduction to some of the basic principles that dictate the economy and the market. For example, when you hear news or read an article in finance, how do you know you're interpreting it correctly? Learning the foundations are another way of "learning the speak" of people who trade and invest. The goal of these readings are to help with understanding capital markets, monetary policy, and investment theory.
 
+- [Basic Investing by Bill Ackman](https://www.youtube.com/watch?v=WEDIj9JBTC8): Great breakdown of how companies work, how to value them, and what to look for in investing. This video covers 80% of "how to become rich" books
 - Accounting: [This is a free and really well-written book with examples](https://lyryx.com/introduction-financial-accounting/). Your goal here is to learn how to read balance sheets from financial reports that companies post during earnings.
 - Macroeconomics
     - [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0): Outstanding introduction to economic cycles, and how the economy works at a high level.
