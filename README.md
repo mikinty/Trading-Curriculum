@@ -47,6 +47,7 @@ Here, we start to learn what trading looks like IRL, tips from experts, and get 
   - [_Hedge Fund Market Wizards_](https://amzn.to/3ydYe5X)
   - [_Unknown Market Wizards_](https://amzn.to/3y4Faqu)
 - [_Reminiscences of a Stock Operator_](https://amzn.to/3bfKHle): This is a classic text about a trader in the early 1900s who made and blew his fortune many times trading. A central theme of the book is that "whatever mistakes have been made in the market, will be made again" a la history repeats itself style. This book has been touted by many great traders such as Paul Tudor Jones for giving good insight into what it's like to lose money, and how to keep your composure even at the worst times of your trading career. 
+- [_Ed Thorp: A Man for ALl Markets_](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960): Ed Thorp is insane. He's one of the biggest brain person that is still emotionally capable. Every paragraph in this book feels like a well-calculated result from Mr. Thorp.
 
 ## Core Concepts
 
@@ -61,3 +62,11 @@ Technical trading relies mostly on past price action to predict future price act
 ### Macro
 
 - [Big Debt Crises by _Ray Dalio_](https://amzn.to/3ydYge5): What are archetypical bubbles and depressions like, why do they happen, and how have they happened in the past? By studying these past economic crises, can we detect when it will happen again, and prepare ourselves better for the next downturn?
+
+## So How do I Trade?
+
+Even though there's no straightforward answer to what you should be trading, you should have an idea of what the options are after reading the material listed above. In addition, even if it's not clear _how_ you should trade, there's a very simple test for determining _if_ you should trade:
+
+> Do I have an edge?
+
+If you believe you have an idea for a trade that will net you money, then that is something worth pursuing. If what you're doing is not tested, pure speculation, etc., then you don't have an edge.
