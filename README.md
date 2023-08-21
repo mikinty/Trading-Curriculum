@@ -63,6 +63,10 @@ Technical trading relies mostly on past price action to predict future price act
 
 - [Big Debt Crises by _Ray Dalio_](https://amzn.to/3ydYge5): What are archetypical bubbles and depressions like, why do they happen, and how have they happened in the past? By studying these past economic crises, can we detect when it will happen again, and prepare ourselves better for the next downturn?
 
+### Quant
+
+- [Basics of Edge Extraction by `therobotjames`](https://www.youtube.com/watch?v=iDxMhUxnXsg): This is a great introduction to what Quant traders are trying to do, e.g. stat arb, backtesting, market patterns, trade execution. If you are wondering what an "edge" is, this is the video for you. Also you can check out [James's website here](https://robotjames.com/), and he has an active [Twitter (X) account](https://twitter.com/therobotjames?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) as well.
+
 ## So How do I Trade?
 
 Even though there's no straightforward answer to what you should be trading, you should have an idea of what the options are after reading the material listed above. In addition, even if it's not clear _how_ you should trade, there's a very simple test for determining _if_ you should trade:
