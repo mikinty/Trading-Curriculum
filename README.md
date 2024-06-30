@@ -14,6 +14,7 @@ Most people who enter wallstreet have some sort of education in Finance or Econo
 
 - [Basic Investing by Bill Ackman](https://www.youtube.com/watch?v=WEDIj9JBTC8): Great breakdown of how companies work, how to value them, and what to look for in investing. This video covers 80% of "how to become rich" books
 - Accounting: [This is a free and really well-written book with examples](https://lyryx.com/introduction-financial-accounting/). Your goal here is to learn how to read balance sheets from financial reports that companies post during earnings.
+    - You should definitely try to read some balance sheets from earnings for some companies. It may not really make sense at first, or seem boring. But what you want to develop is, "is this a good or bad balance sheet for this company"? Which cannot be answered easily, because it depends on macro environment, what type of company, industry, strategy, etc. It may be good to get a sense of "good" vs. "bad" companies by looking at well-established companies vs. recently IPO'd or notoriously crappy companies. There should be some patterns.
 - Macroeconomics
     - [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0): Outstanding introduction to economic cycles, and how the economy works at a high level.
     - [Macroeconomics by Mankiw](https://amzn.to/3OoeyWP): Good theoretical derivations and equations, supplemented with economic theory explanations and case studies.
