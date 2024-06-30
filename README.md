@@ -79,3 +79,10 @@ If you believe you have an idea for a trade that will net you money, then that i
 ## Useful Articles
 
 - [Webb-site](https://webb-site.com/): If you want to see what due diligence looks like, this website has some great articles from David Michael Webb, a legendary investor who also cares about activism (or apparently so)
+
+## Some Caveats
+
+- While absorbing a lot of information _can_ be useful, more information != better trading. In fact, if you get really deep into certain subjects, like economic modeling and predicting prices, you might be in the hogwash of academic nonsense, a la Taleb. So, a good way to figure out if your trading system is working, is if you are seeing more green than red on your PnL chart.
+- Which brings us to our second point. You should always have _some_ sort of protection against black swans. Obviously they are unlikely and when it happens it is too late. But [becoming a turkey](https://i.insider.com/5474a6536bb3f7b2528b4567?width=750&format=jpeg&auto=webp) is the last thing you want to do.
+    - A less extreme example of a turkey is "blowing up your account," which is usually anything more than a 50% decline. Remember, if your account goes down by 50%, you need a 100% return to get back to break even.
+- Trading _is_ hard. If you think it's easy and your name is not Ken Griffin, then I would double check your ego.
