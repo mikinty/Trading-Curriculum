@@ -76,9 +76,10 @@ Even though there's no straightforward answer to what you should be trading, you
 
 If you believe you have an idea for a trade that will net you money, then that is something worth pursuing. If what you're doing is not tested, pure speculation, etc., then you don't have an edge.
 
-## Useful Articles
+## Useful Resources
 
 - [Webb-site](https://webb-site.com/): If you want to see what due diligence looks like, this website has some great articles from David Michael Webb, a legendary investor who also cares about activism (or apparently so)
+- [Value Investors Club](https://www.valueinvestorsclub.com/): This is the famous site where Michael Burry posted his subprime mortgage trade. You will find lots of due diligence done here. As a free member, you can view posts 6 months or so after they are published. NOTE: Just because you read something that seems reasonable, does not mean you should follow it. Remember, the process is more important than the result of the article.
 
 ## Some Caveats
 
