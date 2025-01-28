@@ -8,6 +8,8 @@ The goal here is to give you an objective foundation for knowledge in the tradin
 
 As always, books will have their goods and bads, outdated quips and legendary quotes. It's up to you to choose how you read these books and pick out what you think is useful or not for your trading needs.
 
+If you decide to trade, I **highly recommend** reading [this article first](https://github.com/mikinty/math-of-finance/tree/main).
+
 ## Foundations
 
 Most people who enter wallstreet have some sort of education in Finance or Economics. If you don't, it is absolutely imperative that you have at least an introduction to some of the basic principles that dictate the economy and the market. For example, when you hear news or read an article in finance, how do you know you're interpreting it correctly? Learning the foundations are another way of "learning the speak" of people who trade and invest. The goal of these readings are to help with understanding capital markets, monetary policy, and investment theory.
@@ -75,6 +77,8 @@ Even though there's no straightforward answer to what you should be trading, you
 > Do I have an edge?
 
 If you believe you have an idea for a trade that will net you money, then that is something worth pursuing. If what you're doing is not tested, pure speculation, etc., then you don't have an edge.
+
+Therefore, if there is a takeaway, it's most likely that you should just be buying and holding the S&P500. [I wrote a comprehensive article about why you should probably be doing this.](https://github.com/mikinty/math-of-finance/tree/main)
 
 ## Useful Resources
 
